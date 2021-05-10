@@ -1,0 +1,76 @@
+body {
+    overflow-x: hidden;
+}
+
+.jumbotron {
+    text-align: center;
+    background: none;
+    /* to make background colour none */
+}
+
+.firstsection {
+    background-color: #eceeff;
+    padding: 2rem;
+}
+
+.secondSection {
+    background-color: #cccccc;
+    padding: 2rem;
+}
+
+.coolwrapper {
+    margin-top: 20px;
+}
+
+.coolbtn {
+    background-color: tomato;
+    color: white;
+    display: block;
+    margin: auto;
+}
+
+.logo {
+    margin: auto;
+    text-align: center;
+}
+
+h5.modal-title {
+    margin: auto;
+    text-align: center;
+}
+
+.modalformwrapper {
+    padding: 2rem;
+}
+
+.image {
+    display: block;
+    margin: auto;
+    padding: 2rem;
+}
+
+.btncenter {
+    display: block;
+    margin: auto;
+    margin-bottom: 1.5rem;
+    background-color: tomato;
+    color: white;
+    width: 50%;
+}
+
+.footerimg {
+    width: 50%;
+    padding: 2rem;
+}
+
+.footer {
+    background-color: rgb(83, 81, 81);
+}
+
+.fa {
+    margin: 10px;
+}
+
+.socialwrapper {
+    margin: auto;
+}
