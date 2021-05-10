@@ -1,6 +1,6 @@
 # sample-website-2
 This is a responsive sample website designed for learning purpose. It has 4 sections and they are:
-- ### Navigation :
+- ### Navigation Bar :
       Made using the bootstrap’s navigation header.
 - ### Section 1:
       This is divided into two:
